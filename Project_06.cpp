@@ -5,8 +5,6 @@
 //Course Section: CPE-211-02
 //Lab Section: 1
 //Due Date: 10/05/21
-//Program Description: Description of
-//What the program does.
 //
 #include <iostream>
 #include <cmath>
